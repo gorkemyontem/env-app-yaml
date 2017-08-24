@@ -1,5 +1,5 @@
 {
-  "name": "env-yaml",
+  "name": "env-app-yaml",
   "version": "1.0.0",
   "description": "YAML .env file loader for Google App Engine",
   "main": "lib/index.js",
