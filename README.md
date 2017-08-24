@@ -1,4 +1,9 @@
 # env-app-yaml
+## Install
+
+```bash
+npm install env-app-yaml --save
+```
 
 ## Usage
 
